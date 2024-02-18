@@ -48,13 +48,13 @@ Before diving into the endpoints, let's set up the project.
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/nebociel/neofi-notes-app-django.git
    ```
 
 2. **Navigate to the project directory:**
 
    ```bash
-   cd neoFi_project
+   cd neofi-notes-app-django
    ```
 
 3. **Set up a virtual environment (optional but recommended):**
