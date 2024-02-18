@@ -1,0 +1,18 @@
+# Django related
+*.pyc
+*.pyo
+__pycache__
+db.sqlite3
+
+# Secret keys
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# Compiled Python files
+*.pyc
+
+# Dependency directories
+venv/
